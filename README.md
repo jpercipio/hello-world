@@ -2,4 +2,4 @@
 My first repository
 
 Hello,
-This is my first eidt of my first repo hello-world.
+This is my first edit of my first repo hello-world.
